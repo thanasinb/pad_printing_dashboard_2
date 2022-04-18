@@ -17,3 +17,8 @@
 ![2022-04-18 09_22_39-Node js Setup](https://user-images.githubusercontent.com/55657279/163744513-3cbb450d-59cb-45b1-ae4c-4b25a31b69bb.png)
 
 ![2022-04-18 09_22_47-Node js Setup](https://user-images.githubusercontent.com/55657279/163744518-a367b562-23d1-4481-baef-abf8e6489392.png)
+
+![2022-04-18 09_23_44-Select Install Additional Tools for Node js](https://user-images.githubusercontent.com/55657279/163744595-0fd4236a-8d59-469a-9871-f37e43889c8a.png)
+
+![2022-04-18 09_25_14-Administrator_ Windows PowerShell](https://user-images.githubusercontent.com/55657279/163744700-90ec9994-48c4-422e-ab94-bf7cbd22bcd1.png)
+
