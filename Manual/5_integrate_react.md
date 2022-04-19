@@ -42,3 +42,18 @@ composer require barryvdh/laravel-debugbar
 ![2022-04-18 23_11_30-Laravel](https://user-images.githubusercontent.com/55657279/163837699-5731fd6f-70e2-436c-9c85-f35a4f2981c7.png)
 
 
+Initialise tables in MySQL DB by running
+```
+php artisan migrate
+```
+Note that the default DB name is `laravel`, this can be changed in `.env` file
+
+Pre-load employee DB
+```
+php artisan make:model Employee -mfs
+```
+
+Add table fields and run the following command to create a table
+```
+php artisan migrate
+```
