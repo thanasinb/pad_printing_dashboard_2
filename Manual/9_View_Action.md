@@ -33,6 +33,8 @@
 ![pp1](https://user-images.githubusercontent.com/69668143/164055998-f19a6cc9-0c5a-4b9a-8bc6-8133f98e5eb2.jpeg)
 
 12. Import file Modal ของ View ลงในหน้า Table
+
+
 ![pp2](https://user-images.githubusercontent.com/69668143/164056120-cd92154e-efcb-4f57-b9bb-e946adbcbe14.jpeg)
 
 13. เพิ่ม Action ของ View ไปที่ปุ่มแรกของ Button Group
