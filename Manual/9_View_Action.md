@@ -1,4 +1,4 @@
-ช่วงเวลาใน Videos (https://www.youtube.com/watch?v=svziC8BblM0) 1:09:30 - 1:27:00
+ช่วงเวลาใน Video (https://www.youtube.com/watch?v=svziC8BblM0) 1:09:30 - 1:27:00
 
 1. สร้างรูปแบบของปุ่ม View ขึ้นมาในลักษณะของ Modal โดยค้นหารูปแบบได้จากใน getbootstrap.com
 ![19](https://user-images.githubusercontent.com/69668143/164050571-23fe892b-ac7b-4065-bbac-2136ac748e22.png)
