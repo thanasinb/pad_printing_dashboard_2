@@ -1,4 +1,4 @@
-ช่วงเวลาใน Video (https://www.youtube.com/watch?v=svziC8BblM0) 1:28:00 - 2:02:00
+ช่วงเวลาใน Video (https://www.youtube.com/watch?v=svziC8BblM0) 1:28:00 - 2:02:00 น.
 
 1.  Code ส่วน Component ของ Update Modal
 
