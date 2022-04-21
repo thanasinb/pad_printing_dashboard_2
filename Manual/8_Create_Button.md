@@ -1,4 +1,4 @@
-ช่วงเวลาในวิดีโอ 1.04.16-1.07.35 น.
+ช่วงเวลาใน Video (https://www.youtube.com/watch?v=svziC8BblM0) 1.04.16-1.07.35 น.
 
 1. สร้างไฟล์ชื่อ TableActionButton.js
 ![12](https://user-images.githubusercontent.com/69668143/164049537-bd8b48db-16a7-4133-a036-05ce6b2b014a.png)
